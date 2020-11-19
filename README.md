@@ -1,16 +1,35 @@
-### Hi there 👋
+# Good day! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<b>My name's Gary and welcome to my Github page. Hope you enjoy!</b>
 
-<!--
-**FlatEarthGary/FlatEarthGary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/FlatEarthGary?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlatEarthGary&langs_count=8&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/FlatEarthGary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlatEarthGary&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="FlatEarthGary's stats" 
+</a>
+
+## Get in contact with me
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<a href='#'>
+	<img src=https://img.shields.io/badge/Discord-Cheems%235723-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord = = = Cheems#5723'>
+	</a>
+</div>
+
+<hr>
+
+## Programming languages that I'd say I know pretty well
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<!-- Programming Languages. -->
+	<a href='https://python.org'>
+		<img src='https://img.shields.io/badge/code-python-F7DF1E?logo=python&logoWidth=30&labelColor=black&style=for-the-badge' alt='Python'>
+	</a>
+	&emsp;
+	
+</div>
+<hr>
+
+<img src="https://komarev.com/ghpvc/?username=FlatEarthGary&style=flat-square">
