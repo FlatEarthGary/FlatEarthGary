@@ -27,6 +27,9 @@
 	<a href='https://python.org'>
 		<img src='https://img.shields.io/badge/code-python-F7DF1E?logo=python&logoWidth=30&labelColor=black&style=for-the-badge' alt='Python'>
 	</a>
+	<a href="https://golang.org">
+		<img src="https://img.shields.io/badge/code-golang-55ffff?logo=go&logoWidth=30&labelColor=black&style=for-the-badge", alt="Golang">
+	</a>
 	&emsp;
 	
 </div>
