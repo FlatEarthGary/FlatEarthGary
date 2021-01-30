@@ -27,12 +27,21 @@
 	<a href='https://python.org'>
 		<img src='https://img.shields.io/badge/code-python-F7DF1E?logo=python&logoWidth=30&labelColor=black&style=for-the-badge' alt='Python'>
 	</a>
+	&emsp;
+	
+</div>
+
+## Programming languages I'm learning
+
+<div align='left' style="display: flex; justify-content: space-between;">
+	<!-- Programming Languages. -->
 	<a href="https://golang.org">
 		<img src="https://img.shields.io/badge/code-golang-55ffff?logo=go&logoWidth=30&labelColor=black&style=for-the-badge", alt="Golang">
 	</a>
 	&emsp;
 	
 </div>
+
 <hr>
 
 <img src="https://komarev.com/ghpvc/?username=FlatEarthGary&style=flat-square">
